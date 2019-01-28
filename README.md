@@ -1,4 +1,4 @@
-[I'm an inline-style link with title](https://www.udemy.com/the-complete-web-developer-zero-to-mastery "Udemy Course by Andrei Neagoie")
+[Udemy Course by Andrei Neagoie](https://www.udemy.com/the-complete-web-developer-zero-to-mastery "Udemy Course by Andrei Neagoie")
 
 ## A robofriends app with fetched robos from an online API. 
 
